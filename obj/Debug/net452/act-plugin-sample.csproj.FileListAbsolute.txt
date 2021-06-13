@@ -1,0 +1,14 @@
+C:\Users\Jonathan\OneDrive\repos\act-plugin-sample\obj\Debug\net452\act-plugin-sample.csproj.AssemblyReference.cache
+C:\Users\Jonathan\OneDrive\repos\act-plugin-sample\obj\Debug\net452\act-plugin-sample.AssemblyInfoInputs.cache
+C:\Users\Jonathan\OneDrive\repos\act-plugin-sample\obj\Debug\net452\act-plugin-sample.AssemblyInfo.cs
+C:\Users\Jonathan\OneDrive\repos\act-plugin-sample\obj\Debug\net452\act-plugin-sample.csproj.CoreCompileInputs.cache
+c:\Users\Jonathan\OneDrive\repos\act-plugin-sample\bin\Debug\net452\act-plugin-sample.dll
+c:\Users\Jonathan\OneDrive\repos\act-plugin-sample\bin\Debug\net452\act-plugin-sample.pdb
+c:\Users\Jonathan\OneDrive\repos\act-plugin-sample\bin\Debug\net452\Advanced Combat Tracker.exe
+c:\Users\Jonathan\OneDrive\repos\act-plugin-sample\bin\Debug\net452\GammaJul.LgLcd.dll
+c:\Users\Jonathan\OneDrive\repos\act-plugin-sample\bin\Debug\net452\ICSharpCode.SharpZipLib.dll
+c:\Users\Jonathan\OneDrive\repos\act-plugin-sample\bin\Debug\net452\Trinet.Core.IO.Ntfs.dll
+c:\Users\Jonathan\OneDrive\repos\act-plugin-sample\bin\Debug\net452\Advanced Combat Tracker.exe.config
+c:\Users\Jonathan\OneDrive\repos\act-plugin-sample\obj\Debug\net452\act-plugin-sample.csproj.CopyComplete
+c:\Users\Jonathan\OneDrive\repos\act-plugin-sample\obj\Debug\net452\act-plugin-sample.dll
+c:\Users\Jonathan\OneDrive\repos\act-plugin-sample\obj\Debug\net452\act-plugin-sample.pdb
